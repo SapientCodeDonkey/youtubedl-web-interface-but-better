@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Way Better ytdl-web-interface
+  name: way-better-ytdl-web-interface
   description: Old one sucked. This is so much better
   tags:
     - php
